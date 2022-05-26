@@ -5,20 +5,29 @@ repo: status.adrianub.dev # The name of this repository
 sites:
   - name: Adrián UB
     url: https://adrianub.dev
+  - name: SalvaYA!
+    url: https://salvaya.com
+  - name: Banners
+    url: https://banners.adrianub.vercel.app
+  - name: Netlify CMS Oauth
+    url: https://netlify-cms.adrianub.vercel.app
+  - name: TailwindCSS Brand Colors
+    url: https://tailwindcss-brand-colors.pages.dev
 
 status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.adrianub.dev
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/adrian-ub/status.adrianub.dev/master/assets/icon.svg
   name: Adrián UB
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
+    - title: Sitio Web
+      href: https://adrianub.dev
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
