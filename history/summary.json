@@ -4,19 +4,19 @@
     "url": "https://adrianub.dev",
     "icon": "https://favicons.githubusercontent.com/adrianub.dev",
     "slug": "adrian-ub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 179,
-    "timeDay": 205,
-    "timeWeek": 178,
+    "timeDay": 199,
+    "timeWeek": 179,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://salvaya.com",
     "icon": "https://favicons.githubusercontent.com/salvaya.com",
     "slug": "salva-ya",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 146,
-    "timeWeek": 168,
-    "timeMonth": 156,
-    "timeYear": 156,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 154,
+    "timeDay": 127,
+    "timeWeek": 159,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 11
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://favicons.githubusercontent.com/tailwindcss-brand-colors.pages.dev",
     "slug": "tailwind-css-brand-colors",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 122,
     "timeDay": 63,
     "timeWeek": 103,
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 11
     }
   }
 ]
