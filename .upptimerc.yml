@@ -1,0 +1,113 @@
+# Change these first
+owner: adrian-ub # Your GitHub organization or username, where this repository lives
+repo: status.adrianub.dev # The name of this repository
+
+sites:
+  - name: Adrián UB
+    url: https://adrianub.dev
+    icon: https://adrianub.dev/favicon.svg
+  - name: Adrián UB - Comments
+    url: https://comments.adrianub.dev
+    icon: https://comments.adrianub.dev/favicon.ico
+
+status-website:
+  theme: night
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: status.adrianub.dev
+  logoUrl: https://raw.githubusercontent.com/adrian-ub/status.adrianub.dev/master/assets/icon.svg
+  faviconSvg: https://raw.githubusercontent.com/adrian-ub/status.adrianub.dev/master/assets/icon.svg
+  name: Adrián UB
+  introTitle: "Monitor y página de estado, impulsado completamente por GitHub."
+  introMessage: Esta es una página de estado que usa datos en **tiempo real** de nuestro [repositorio de GitHub](https://github.com/adrian-ub/status.adrianub.dev).
+  navbar:
+    - title: Status
+      href: /
+    - title: Sitio Web
+      href: https://adrianub.dev
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+commitMessages:
+  commitAuthorName: "adrian-ub[bot]"
+  commitAuthorEmail: "135763872+adrian-ub[bot]@users.noreply.github.com"
+
+i18n:
+  activeIncidents: Incidentes activos
+  incidentReport: "Informe del incidente #$NUMBER →"
+  activeIncidentSummary: Abierto el $DATE con $POSTS publicaciones
+  incidentTitle: Detalles del incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Solucionado
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto a las
+  incidentClosedAt: Cerrado a las
+  incidentViewOnGitHub: Ver y suscribirse en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones.
+  overallUptime: "Tiempo de actividad general: $UPTIME"
+  overallUptimeTitle: Tiempo de actividad general
+  averageResponseTime: "Tiempo promedio de respuesta: $TIMEms"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  loading: Cargando
+  navGitHub: GitHub
+  footer: Esta página es [código abierto]($REPO), impulsada por [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Excede el límite de velocidad
+  rateLimitExceededIntro: Has superado el número de solicitudes que puedes realizar en una hora, por lo que tendrás que esperar antes de volver a acceder a este sitio web. Alternativamente, puede agregar un token de acceso personal de GitHub para continuar usando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. De forma predeterminada, GitHub permite a cada dirección IP 60 solicitudes por hora que haya consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo arreglarlo?
+  rateLimitExceededErrorFix: Puede esperar otra hora y se restablecerá el límite de su dirección IP. Alternativamente, puede agregar su token de acceso personal de GitHub, lo que le brinda 5000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprenda cómo generar un token de acceso personal
+  rateLimitExceededHasSet: Tienes un conjunto de tokens de acceso personal.
+  rateLimitExceededRemoveToken: Quitar token
+  rateLimitExceededGitHubPAT: Token de acceso personal de GitHub
+  rateLimitExceededCopyPastePAT: Copia y pega tu token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Ocurrió un error
+  errorIntro: Se produjo un error al intentar obtener los detalles del estado más recientes.
+  errorText: Puedes volver a intentarlo en unos momentos.
+  errorHome: Ir a la pagina principal
+  pastScheduledMaintenance: Mantenimiento programado anterior
+  scheduledMaintenance: Mantenimiento Programado
+  scheduledMaintenanceSummaryStarted: Comenzó el $DATE durante $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Comienza el $DATE durante $DURATION minutos
+  startedAt: Empezó a las
+  startsAt: Empieza a
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Terminado
+  incidentScheduled: Programado
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
+  durationAll: todo
+  url: "URL"
+  status: "Estado"
+  history: "Historia"
+  responseTime: "Tiempo de respuesta"
+  up: "🟩 Arriba"
+  degraded: "🟨 Degradado"
+  down: "🟥 Abajo"
+  responseTimeGraphAlt: "Gráfico de tiempo de respuesta"
+  ms: "ms"
+  responseTimeDay: "Tiempo de respuesta de 24 horas"
+  responseTimeWeek: "Tiempo de respuesta de 7 días"
+  responseTimeMonth: "Tiempo de respuesta de 30 días"
+  responseTimeYear: "Tiempo de respuesta de 1 año"
+  uptime: "Tiempo de actividad en todo momento"
+  uptimeDay: "Tiempo de actividad las 24 horas"
+  uptimeWeek: "Tiempo de actividad de 7 días"
+  uptimeMonth: "Tiempo de actividad de 30 días"
+  uptimeYear: "Tiempo de actividad de 1 año"
+  liveStatus: "Estado en vivo"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 Todos los sistemas operativos."
+  degradedPerformance: "🟨 Rendimiento degradado"
+  completeOutage: "🟥 Apagón completo"
+  partialOutage: "🟧 Corte parcial"
