@@ -9,6 +9,9 @@ sites:
   - name: Adrián UB - Comments
     url: https://comments.adrianub.dev
     icon: https://comments.adrianub.dev/favicon.ico
+  - name: Send Movie Script
+    url: https://send-script.adrianub.dev
+    icon: https://send-script.adrianub.dev/favicon.svg
 
 status-website:
   theme: night
