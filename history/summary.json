@@ -2,7 +2,7 @@
   {
     "name": "Adrián UB",
     "url": "https://adrianub.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/adrianub.dev.ico",
+    "icon": "https://adrianub.dev/favicon.svg",
     "slug": "adrian-ub",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 273,
-    "timeWeek": 273,
-    "timeMonth": 273,
-    "timeYear": 273,
+    "time": 213,
+    "timeDay": 213,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Adrián UB - Comments",
+    "url": "https://comments.adrianub.dev",
+    "icon": "https://comments.adrianub.dev/favicon.ico",
+    "slug": "adrian-ub-comments",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 263,
+    "timeDay": 263,
+    "timeWeek": 263,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   }
 ]
