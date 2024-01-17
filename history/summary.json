@@ -24,7 +24,7 @@
     "slug": "adrian-ub-comments",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,25 +33,29 @@
     "timeWeek": 2353,
     "timeMonth": 1050,
     "timeYear": 1050,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "Adrián UB - Analytics",
     "url": "https://analytics.adrianub.dev",
     "icon": "https://analytics.adrianub.dev/favicon.ico",
     "slug": "adrian-ub-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 195,
-    "timeWeek": 135,
-    "timeMonth": 122,
-    "timeYear": 122,
-    "dailyMinutesDown": {}
+    "time": 189,
+    "timeDay": 692,
+    "timeWeek": 267,
+    "timeMonth": 189,
+    "timeYear": 189,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "Send Movie Script",
