@@ -22,19 +22,19 @@
     "url": "https://comments.adrianub.dev",
     "icon": "https://comments.adrianub.dev/favicon.ico",
     "slug": "adrian-ub-comments",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1084,
-    "timeDay": 1056,
-    "timeWeek": 2136,
-    "timeMonth": 1084,
-    "timeYear": 1084,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1040,
+    "timeDay": 842,
+    "timeWeek": 1942,
+    "timeMonth": 1040,
+    "timeYear": 1040,
     "dailyMinutesDown": {
-      "2024-01-17": 6
+      "2024-01-17": 0
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://analytics.adrianub.dev",
     "icon": "https://analytics.adrianub.dev/favicon.ico",
     "slug": "adrian-ub-analytics",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 201,
-    "timeDay": 593,
-    "timeWeek": 281,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 256,
+    "timeDay": 742,
+    "timeWeek": 372,
+    "timeMonth": 256,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2024-01-17": 6
+      "2024-01-17": 0
     }
   },
   {
