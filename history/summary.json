@@ -58,17 +58,19 @@
     "url": "https://send-script.adrianub.dev",
     "icon": "https://send-script.adrianub.dev/favicon.svg",
     "slug": "send-movie-script",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 88,
-    "timeWeek": 156,
-    "timeMonth": 146,
-    "timeYear": 146,
-    "dailyMinutesDown": {}
+    "time": 145,
+    "timeDay": 99,
+    "timeWeek": 151,
+    "timeMonth": 145,
+    "timeYear": 145,
+    "dailyMinutesDown": {
+      "2024-01-27": 0
+    }
   }
 ]
