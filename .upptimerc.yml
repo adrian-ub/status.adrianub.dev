@@ -13,8 +13,8 @@ sites:
     url: https://analytics.adrianub.dev
     icon: https://analytics.adrianub.dev/favicon.ico
   - name: Send Movie Script
-    url: https://send-script.adrianub.dev
-    icon: https://send-script.adrianub.dev/favicon.svg
+    url: https://send-movie-script.adrianub.dev
+    icon: https://send-movie-script.adrianub.dev/favicon.svg
 
 status-website:
   theme: night
