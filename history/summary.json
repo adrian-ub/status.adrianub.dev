@@ -4,18 +4,20 @@
     "url": "https://adrianub.dev",
     "icon": "https://adrianub.dev/favicon.svg",
     "slug": "adrian-ub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 198,
-    "timeWeek": 184,
-    "timeMonth": 177,
-    "timeYear": 194,
-    "dailyMinutesDown": {}
+    "time": 193,
+    "timeDay": 139,
+    "timeWeek": 171,
+    "timeMonth": 174,
+    "timeYear": 193,
+    "dailyMinutesDown": {
+      "2024-05-16": 0
+    }
   },
   {
     "name": "Adrián UB - Comments",
