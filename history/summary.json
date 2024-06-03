@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 172,
+    "timeDay": 193,
     "timeWeek": 164,
     "timeMonth": 173,
     "timeYear": 191,
@@ -24,18 +24,16 @@
     "slug": "adrian-ub-comments",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 140,
+    "timeDay": 137,
     "timeWeek": 161,
-    "timeMonth": 156,
+    "timeMonth": 155,
     "timeYear": 301,
-    "dailyMinutesDown": {
-      "2024-06-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Adrián UB - Analytics",
@@ -44,18 +42,16 @@
     "slug": "adrian-ub-analytics",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 234,
+    "timeDay": 294,
     "timeWeek": 173,
-    "timeMonth": 144,
+    "timeMonth": 145,
     "timeYear": 183,
-    "dailyMinutesDown": {
-      "2024-06-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Send Movie Script",
@@ -63,15 +59,15 @@
     "icon": "https://send-movie-script.adrianub.dev/favicon.svg",
     "slug": "send-movie-script",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.06%",
     "time": 142,
-    "timeDay": 119,
+    "timeDay": 122,
     "timeWeek": 105,
-    "timeMonth": 157,
+    "timeMonth": 133,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2024-01-28": 992,
